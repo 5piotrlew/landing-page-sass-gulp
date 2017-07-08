@@ -1,0 +1,10 @@
+@import "general";
+@import "header";
+@import "form-section";
+@import "footer";
+@import "responsive";
+@import "mixin";
+
+nav #menu {
+    display: inline-block;
+}
